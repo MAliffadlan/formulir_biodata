@@ -8,4 +8,4 @@ Proyek ini dibuat menggunakan PHP murnidan terdiri dari dua file:
 
 ## 🚀Link Demo
 
-**[Formulir Biodata](http://bit.ly/4ouhPGc)**
+**[Formulir Biodata](https://bit.ly/3IR0SGT)**
