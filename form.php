@@ -40,7 +40,7 @@
                     
                     <select name="tahun">
                         <?php
-                        // Loop kecil untuk buat tahun
+                        
                         for ($i = 2005; $i >= 1980; $i--) {
                             $selected = ($i == 1998) ? 'selected' : '';
                             echo "<option value='$i' $selected>$i</option>";
